@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680826091322",
+    "project_id": "posthubfirebase",
+    "storage_bucket": "posthubfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680826091322:android:4a91caf055512a87bc8203",
+        "android_client_info": {
+          "package_name": "com.posthub.posthub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk3rkb2MdVddUZ-NCOH-2xfm_mEDg1eb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

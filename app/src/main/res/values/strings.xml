@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PostHub</string>
+
+    <string name="facebook_app_id">1128503655334703</string>
+    <string name="fb_login_protocol_scheme">fb1128503655334703</string>
+    <string name="facebook_client_token">92820c336b994b35a2f6eb982dcb85f9</string>
+
+</resources>
